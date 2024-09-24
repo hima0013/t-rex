@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+.imageclASS{
+    width: 50%;
+}
+
+.imageclASS{
+    background-image: url(images/volcano.jpg);
+   
+    background-size: cover;
+}
+.list{
+    list-style-position: inside;
+    list-style-type: lower-roman;
+}
+
+.table {
+    width: 100%;
+}
